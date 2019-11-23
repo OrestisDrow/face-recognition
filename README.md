@@ -47,6 +47,10 @@ You have to make sure DLIB is built with -DLIB_USE_CUDA = 1 (e.g. $ cmake .. -DD
 - 236 images from 7 labels
 - Images were collected using google image search and belong mostly to actors playing in Jurrasic Park (1993) movie for testing purposes, as well as 18 images of me.
 
+### Codes
+
+Comments are used inside the python scripts that briefly describe how to use them and what they do
+
 ### Demo results
 - [lunch scene hog](https://www.youtube.com/watch?v=zwEndBDHaaA&feature=youtu.be)
 - [lunch scene cnn](https://www.youtube.com/watch?v=G1qOlcf1Vws&feature=youtu.be)
