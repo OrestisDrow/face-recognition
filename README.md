@@ -1,7 +1,7 @@
 # face-recognition thesis
 Masters thesis on face recognition using machine and deep learning techniques
 
-The complete thesis text can be found [here](https://nemertes.lis.upatras.gr/jspui/handle/10889/12597).
+The complete thesis text can be found [here](http://hdl.handle.net/10889/12597).
 
 Thesis language: Greek
 
