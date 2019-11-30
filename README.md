@@ -36,11 +36,11 @@ On both of these methods Non Maximum Suppression algorithm is used in order to p
 
 - CUDA Toolkit 10.1
 - cuDNN 7.6
-- DLIB with python bindings
-- face_recognition
+- [dlib](https://github.com/davisking/dlib) with python bindings
+- [face_recognition](https://pypi.org/project/face_recognition/)
 - OpenCV
 
-You have to make sure DLIB is built with -DLIB_USE_CUDA = 1 (e.g. $ cmake .. -DDLIB_USE_CUDA=1 -DUSE_AVX_INSTRUCTIONS=1). You can find dlib [here](https://github.com/davisking/dlib).
+You have to make sure DLIB is built with -DLIB_USE_CUDA = 1 (e.g. $ cmake .. -DDLIB_USE_CUDA=1 -DUSE_AVX_INSTRUCTIONS=1).
 
 ### Dataset used info
 
