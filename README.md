@@ -34,8 +34,8 @@ On both of these methods Non Maximum Suppression algorithm is used in order to p
 
 #### Software used
 
-- CUDA Toolkit 10.1
-- cuDNN 7.6
+- [CUDA Toolkit 10.1](https://developer.nvidia.com/cuda-downloads)
+- [cuDNN 7.6](https://developer.nvidia.com/cudnn)
 - [dlib](https://github.com/davisking/dlib) with python bindings
 - [face_recognition](https://pypi.org/project/face_recognition/)
 - OpenCV
